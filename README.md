@@ -40,5 +40,3 @@ This project focuses on building a **time-series prediction model** for stock pr
 - Demonstrated potential of **deep learning** in financial forecasting.  
 
 ---
-   git clone https://github.com/your-username/stock-price-prediction-lstm.git
-   cd stock-price-prediction-lstm
